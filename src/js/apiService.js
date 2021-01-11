@@ -1,7 +1,7 @@
 import errorsNotifications from './notification';
 
 const url = 'https://pixabay.com/api/';
-const apiKey = '19598883-8e8293d515495519269109cc8';
+const apiKey = '19848074-61d1ecc26c8ce39d23ee5357a';
 
 export default {
   searchQuery: '',
